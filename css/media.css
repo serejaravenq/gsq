@@ -1,0 +1,150 @@
+/* Large Devices, Wide Screens */
+
+@media only screen and (max-width: 1200px) {
+/*****payment-method******/
+.payment-method .icon-set {
+    margin: 25px 0 25px 15px;
+}
+
+/*****payment-method END******/
+
+/*****content******/
+.info .icon-info {
+    margin-left: 0;
+}
+.info h3 {
+    margin-right: 0;
+}
+
+.info .description {
+    width: 72%;
+    margin-right: 0;
+/*****content END******/
+}
+
+/*****public******/
+
+.public .icon-set .icon {
+    margin: 20px 29px;
+}
+
+.public .icon-set .layout-element {
+    left: 90px;
+}
+
+.public .icon-set .description {
+    width: 92%;
+}
+/*****public END******/   
+}
+@media only screen and (max-width: 1024px) {
+    
+}
+/* Medium Devices, Desktops */
+
+@media only screen and (max-width: 991px) {
+/******header **********/ 
+.main-info {
+    text-align: left;    
+}
+
+.main-info .support {
+    margin-left: 0;
+}
+
+.main-info .support .phone-field {
+    font-size: 25px;
+} 
+/******header END**********/
+
+/*****navigation******/
+
+.navigation .main-nav {
+    text-align: left;
+}
+
+.navigation .main-nav li {
+    margin-left: 30px;
+}
+
+.navigation .main-nav li a{
+    font-size: 14px;
+}
+/*****navigation  END******/
+
+/*****payment-method******/
+.payment-method .icon-set {
+    margin: 15px 0;
+}
+
+.payment-method .icon-set img {
+    margin: 0;
+    width: 84px;
+}
+
+/*****payment-method END******/
+
+/*****content******/
+.content p {
+    width: 100%;
+}
+
+.info {
+    text-align: left;
+}
+
+.info .icon-info {
+    margin-left: 0;
+
+}
+
+.info h3 {
+    margin-left: 45px;
+}
+
+.info .description {
+    width: 81%;
+    margin-right: 0;
+}
+/*****content END******/
+
+/*****public*****/
+.public .icon-set .icon {
+    margin: 20px 7px;
+}
+
+.public .icon-set .layout-element {
+    left: 65px;
+}
+
+.public .icon-set .description {
+    width: 100%;
+}
+/*****public END*****/
+
+/****footer****/
+footer .icon-set,
+footer .author {
+    text-align: center;
+}
+
+/****footer END****/
+}
+/* Small Devices, Tablets */
+
+@media only screen and (max-width: 767px) {
+    
+}
+/* Extra Small Devices, Phones */
+
+@media only screen and (max-width: 484px) {
+   
+}
+
+@media only screen and (max-width: 427px) {
+    
+}
+
+@media only screen and (max-width: 375px) {
+    
+}
